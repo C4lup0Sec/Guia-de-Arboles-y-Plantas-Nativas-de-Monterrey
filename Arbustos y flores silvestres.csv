@@ -1,0 +1,8 @@
+Numero,Nombre comun,Nombre Cientifico,Familia,Riego,Raiz,Follaje,Crecimiento ,Habitats,Suelo,Anidasion,Aroma,alto,ancho,separacion,vida,Breve Descripcion,Flores,Hojas,Frutos,Paleta de color
+1,Cenizo,Leucophyllum frutescens,Scrophulariaceae,minimo,Medias,Siempre verde,medio,valle o Desierto,Drenado Rapido o Drenado Medio,si,no,1.5,1.5,1.5,10-30 años,,,,,
+2,Dodonea,Dodonea viscosa,Sapindaceae,minimo,Medias,Siempre verde,rapido,Valle o Montaña,Drenado Medio,no,no,2.5,2.5,2,10-30 años,,,,,
+3,Guajillo,Acacia bernlandieri,Fabaceae,minimo,Medias,Intermedio,medio,Valle,Drenado Intermedio,si,si,3,3,3.5,10-30 años,,,,,
+4,Lantana,Lantana horrida,Verbenaceae,medio,Medias,Intermedio,rapido,Valle o Montaña,Drenado Lento,si,no,1,0.8,1,<10 años,,,,,
+5,Lupino,Lupinus texensis,Fabaceae,medio,Medias,Caduco,rapido,Valle o Montaña,Drenado medio,si,no,0.4,0.3,,<10 años,,,,,
+6,Pastos Nativos,Bouteloua curtipendula,Poaceae,minimo,Superficial,Siempre verde,rapido,Valle o Desierto,Drenado Rapido,no,no,,,,<10 años,,,,,
+7,Veintiunilla,Asclepias curassavica,Asclepiadaceae,maximo,Medias,Siempre verde,rapido,Valle o Montaña,Drenado Rapido,si,no,0.7,0.7,0.6,10-30 años,,,,,
