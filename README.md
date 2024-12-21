@@ -19,7 +19,7 @@ El repositorio está organizado para facilitar el acceso y análisis de la infor
 - Análisis visual de datos (distribución de especies, frecuencia por hábitat, etc.).  
 
 ## 🌐 Visita el Sitio Web  
-A través de nuestro sitio en GitHub Pages, puedes explorar una tabla interactiva de especies, mapas de distribución y otros recursos educativos.  
+A través de nuestro sitio en [GitHub Pages](https://c4lup0sec.github.io/Guia-de-Arboles-y-Plantas-Nativas-de-Monterrey/), puedes explorar una tabla interactiva de especies, mapas de distribución y otros recursos educativos.  
 
 ## 🔧 Tecnologías Utilizadas  
 - **Jekyll**: Para la generación del sitio web.  
